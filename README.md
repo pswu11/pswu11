@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Developer Relations at Jina AI, we are building an open source search framework for neural search problems!
-- 🌱 I’m currently learning programming fundamentals, and interested in exploring Python and Go
+- 🌱 I’m currently learning programming fundamentals, meanwhile exploring Python and Go
 - 👯 I’m looking to collaborate on whatever is fun to work on!
 - 💬 Ask me about business modelling, business analysis, and technical marketing
 - 📫 How to reach me: message me on Twitter!
