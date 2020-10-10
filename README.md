@@ -1,16 +1,21 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as Developer Relations at Jina AI, we are building an open source search framework for neural search problems!
+- 🌱 I’m currently learning computer science fundamentals, Python, and Go
+- 👯 I’m looking to collaborate on whatever is fun to work on!
+- 💬 Ask me about business modelling, business analysis, and technical marketing
+- 📫 How to reach me: message me on Twitter!
+- 😄 Pronouns: she/her
+
 <!--
 **pswu11/pswu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working as Developers Relations at Jina AI
+- 🌱 I’m currently learning computer science fundamentals, Python, and Go
+- 👯 I’m looking to collaborate on whatever is fun to work on!
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about business modelling, financial planning, and technical marketing
+- 📫 How to reach me: message me on Twitter!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
