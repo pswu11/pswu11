@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Developer Relations at Jina AI, we are building an open source search framework for neural search problems! Before this, I used to work as business developer and financial analyst for different tech companies 
+- 🔭 I’m currently working as Developer Relations at Jina AI, we are building an open source search framework for neural search problems! Before this, I used to work in roles like business developer and financial analyst for different tech companies 
 - 🌱 I’m currently learning software development fundamentals, with a focus on Go. 
 - 👯 I’m looking to collaborate on whatever is fun to work on!
 - 💬 Ask me about business modelling, business analysis, operations finance, or technical marketing
