@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently exploring new opportunities. 
-- 🌱 I’m currently learning: Python programming and blockchain. 
+- 🌱 I’m currently learning: programming and blockchain. 
 - 📫 How to reach me: Linkedin, Twitter, ... 
 - ⚡ Fun fact: I've moved 12 times since 2015. 
