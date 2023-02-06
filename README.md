@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently exploring new opportunities. 
-- 🌱 I’m currently learning: programming and blockchain. 
+- 🔭 I’m currently exploring new career opportunities ideally in open source, blockchain, and/or data spaces.
+- 🌱 I’m currently learning: programming. 
 - 📫 How to reach me: Linkedin, Twitter, ... 
 - ⚡ Fun fact: I've moved 12 times since 2015. 
