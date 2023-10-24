@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This is Pei (pronounced like "pay"). 
 
 - 🔭 I’m exploring: new career opportunities ideally in open source, dev tools, and/or data analytics spaces.
-- 💻 I'm working on: MVP of an AI product
-- 🌱 I’m learning: Typescript, React, Prisma, Express, Node.js ...
+- 💻 I'm working on: MVP of an AI-related product.
+- 🌱 I’m learning: Typescript, React, Prisma, Express, Node.js ... and Yoga. 
 - 📫 How to reach me: Linkedin, Twitter, ... 
 - ⚡ Fun fact: you can make a lot of puns with my name. 
