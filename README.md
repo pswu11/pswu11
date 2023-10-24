@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently exploring new career opportunities ideally in open source, dev tools, and/or data analytics spaces.
-- 🌱 I’m currently learning: Typescript, React, Express, Node.js ...
+This is Pei (pronounced like "pay"). 
+
+- 🔭 I’m exploring: new career opportunities ideally in open source, dev tools, and/or data analytics spaces.
+- 💻 I'm working on: MVP of an AI product
+- 🌱 I’m learning: Typescript, React, Prisma, Express, Node.js ...
 - 📫 How to reach me: Linkedin, Twitter, ... 
-- ⚡ Fun fact: I've moved 12 times since 2015. 
+- ⚡ Fun fact: you can make a lot of puns with my name. 
