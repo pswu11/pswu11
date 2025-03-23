@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is Pei (pronounced like "pay"). 
 
-- 🔭 I’m exploring: new career opportunities ideally in open source, dev tools, and/or data analytics spaces.
+- 🔭 I’m exploring: open source, dev tools, data analytics.
 - 🌱 I’m building with Typescript, React, Prisma, Express, Node.js, and PostgreSQL. 
-- 📫 How to reach me: Linkedin, Twitter, ... 
+- 📫 How to reach me: Linkedin
 - ⚡ Fun fact: you can make a lot of puns with my name. 
